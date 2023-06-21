@@ -1,0 +1,10 @@
+2. Open terminal and paste these as described:
+
+Linux and macOS (Windows Git Bash)-
+    export NODE_OPTIONS=--openssl-legacy-provider
+
+Windows command prompt-
+    set NODE_OPTIONS=--openssl-legacy-provider
+
+Windows PowerShell-
+    $env:NODE_OPTIONS = "--openssl-legacy-provider"
