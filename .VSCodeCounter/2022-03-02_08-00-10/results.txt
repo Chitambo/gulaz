@@ -1,0 +1,70 @@
+Date : 2022-03-02 08:00:10
+Directory : c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master
+Total : 30 files,  26758 codes, 17 comments, 132 blanks, all 26907 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          2 |     24,781 |          0 |          2 |     24,783 |
+| Vue        |         19 |      1,615 |          0 |         50 |      1,665 |
+| JavaScript |          4 |        274 |         13 |         38 |        325 |
+| Markdown   |          2 |         44 |          0 |         37 |         81 |
+| PHP        |          1 |         43 |          0 |          3 |         46 |
+| XML        |          1 |          1 |          0 |          1 |          2 |
+| SCSS       |          1 |          0 |          4 |          1 |          5 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                     | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                        |         30 |     26,758 |         17 |        132 |     26,907 |
+| assets                                                                                                                   |          1 |          0 |          4 |          1 |          5 |
+| layouts                                                                                                                  |          2 |        118 |          0 |          6 |        124 |
+| middleware                                                                                                               |          2 |         10 |          0 |          0 |         10 |
+| pages                                                                                                                    |         18 |      1,540 |          0 |         47 |      1,587 |
+| pages\banks                                                                                                              |          3 |        171 |          0 |          8 |        179 |
+| pages\details                                                                                                            |          4 |        593 |          0 |          6 |        599 |
+| pages\district                                                                                                           |          3 |        210 |          0 |          7 |        217 |
+| pages\product                                                                                                            |          4 |        298 |          0 |          5 |        303 |
+| static                                                                                                                   |          1 |          1 |          0 |          1 |          2 |
+| store                                                                                                                    |          2 |        217 |          0 |         31 |        248 |
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                 | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\README.md                          | Markdown   |         38 |          0 |         32 |         70 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\assets\variables.scss              | SCSS       |          0 |          4 |          1 |          5 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\layouts\default.vue                | Vue        |         75 |          0 |          3 |         78 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\layouts\error.vue                  | Vue        |         43 |          0 |          3 |         46 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\middleware\auth.js                 | JavaScript |          5 |          0 |          0 |          5 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\middleware\guest.js                | JavaScript |          5 |          0 |          0 |          5 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\nuxt.config.js                     | JavaScript |         53 |         13 |         12 |         78 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\package-lock.json                  | JSON       |     24,756 |          0 |          1 |     24,757 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\package.json                       | JSON       |         25 |          0 |          1 |         26 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\Login.vue                    | Vue        |         62 |          0 |          2 |         64 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\Signup.vue                   | Vue        |         69 |          0 |          0 |         69 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\banks\_banksid.vue           | Vue        |          0 |          0 |          1 |          1 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\banks\create-banks.vue       | Vue        |         97 |          0 |          3 |        100 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\banks\index.vue              | Vue        |         74 |          0 |          4 |         78 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\details\_detailsid.vue       | Vue        |         88 |          0 |          2 |         90 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\details\create-details.vue   | Vue        |        259 |          0 |          1 |        260 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\details\create-detailsx.vue  | Vue        |        168 |          0 |          2 |        170 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\details\index.vue            | Vue        |         78 |          0 |          1 |         79 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\district\_districtid.vue     | Vue        |         80 |          0 |          2 |         82 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\district\create-district.vue | Vue        |         64 |          0 |          4 |         68 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\district\index.vue           | Vue        |         66 |          0 |          1 |         67 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\index.vue                    | Vue        |         94 |          0 |         16 |        110 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\indexx.php                   | PHP        |         43 |          0 |          3 |         46 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\product\Create-Product.vue   | Vue        |         71 |          0 |          2 |         73 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\product\Create-Producty.vue  | Vue        |         69 |          0 |          0 |         69 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\product\_productid.vue       | Vue        |         88 |          0 |          2 |         90 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\pages\product\index.vue            | Vue        |         70 |          0 |          1 |         71 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\static\vuetify-logo.svg            | XML        |          1 |          0 |          1 |          2 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\store\README.md                    | Markdown   |          6 |          0 |          5 |         11 |
+| c:\Users\Chitambo\Documents\pureJavascript\nuxtjs-crud-with-auth-using-php-api-master\store\index.js                     | JavaScript |        211 |          0 |         26 |        237 |
+| Total                                                                                                                    |            |     26,758 |         17 |        132 |     26,907 |
++--------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
